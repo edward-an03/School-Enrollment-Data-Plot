@@ -1,5 +1,5 @@
-# school_data.py
-# Edward An, ENDG 233 F21
+# school_enrollment_data_plot.py
+# Edward An
 # A terminal-based application to process and plot data based on given user input and provided csv files.
 # You may only import numpy, matplotlib, and math. 
 # No other modules may be imported. Only built-in functions that support compound data structures, user entry, or casting may be used.
