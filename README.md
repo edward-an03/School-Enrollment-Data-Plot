@@ -1,7 +1,7 @@
 # School-Enrollment-Data
 A console (terminal-based) application that imports multiple CSV files and displays their data using NUMPY and MATPLOTLIB
 
-#What I learned
+# What I learned
 * Create and manipulate arrays using the numpy module
 * Process data according to specifications
 * Use dictionaries to store and search for values
