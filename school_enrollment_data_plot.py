@@ -1,13 +1,6 @@
 # school_enrollment_data_plot.py
 # Edward An
 # A terminal-based application to process and plot data based on given user input and provided csv files.
-# You may only import numpy, matplotlib, and math. 
-# No other modules may be imported. Only built-in functions that support compound data structures, user entry, or casting may be used.
-# Remember to include docstrings for any functions/classes, and comments throughout your code.
-import numpy as np
-import matplotlib.pyplot as plt
-import math
-
 # The following class is provided and should not be modified.
 class School:
     """A class used to create a School object.
@@ -118,7 +111,7 @@ def create_y_values_figure_2(school_code, grade):
 
 # Add your code within the main function. A docstring is not required for this function.
 def main(): 
-    print("ENDG 233 School Enrollment Statistics\n")
+    print("Welcome to School Enrollment Statistics\n")
 
     # Print array data here
     print("Array data for 2020-2021:")
@@ -225,6 +218,5 @@ def main():
 
     plt.show()
 
-# Do not modify the code below
 if __name__ == '__main__':
     main()
