@@ -1,7 +1,11 @@
 # school_enrollment_data_plot.py
 # Edward An
 # A terminal-based application to process and plot data based on given user input and provided csv files.
-# The following class is provided and should not be modified.
+
+import numpy as np
+import matplotlib.pyplot as plt
+import math
+
 class School:
     """A class used to create a School object.
 
